@@ -1,0 +1,493 @@
+{
+    "modrole_833506663155367936": "833506663155367943",
+    "developer_833506663155367936": "835277398756425768",
+    "botrol_833506663155367936": "833506663155367940",
+    "eklekanal_833506663155367936": {
+        "type": "text",
+        "deleted": false,
+        "id": "839749816292737024",
+        "name": "bot-add",
+        "rawPosition": 2,
+        "parentID": "835276928758841355",
+        "permissionOverwrites": [
+            "833506663155367936"
+        ],
+        "topic": null,
+        "lastMessageID": "840298742900326470",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "833506663155367936",
+        "messages": [],
+        "nsfw": false,
+        "createdTimestamp": 1620282358001
+    },
+    "logkanal_833506663155367936": {
+        "type": "text",
+        "deleted": false,
+        "id": "839749844243316766",
+        "name": "bot-log",
+        "rawPosition": 3,
+        "parentID": "835276928758841355",
+        "permissionOverwrites": [
+            "833506663155367936"
+        ],
+        "topic": null,
+        "lastMessageID": "840065896448917514",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "833506663155367936",
+        "messages": [],
+        "nsfw": false,
+        "createdTimestamp": 1620282364665
+    },
+    "yetkili_kanal_833506663155367936": {
+        "type": "text",
+        "deleted": false,
+        "id": "839749864958722118",
+        "name": "bot-yetkle",
+        "rawPosition": 4,
+        "parentID": "835276928758841355",
+        "permissionOverwrites": [
+            "833506663155367936"
+        ],
+        "topic": null,
+        "lastMessageID": "840305088181698640",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "833506663155367936",
+        "messages": [],
+        "nsfw": false,
+        "createdTimestamp": 1620282369604
+    },
+    "yetkililog_833506663155367936": {
+        "type": "text",
+        "deleted": false,
+        "id": "839749886881693716",
+        "name": "yetkili-log",
+        "rawPosition": 5,
+        "parentID": "835276928758841355",
+        "permissionOverwrites": [
+            "833506663155367936"
+        ],
+        "topic": null,
+        "lastMessageID": "840305083941781574",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "833506663155367936",
+        "messages": [],
+        "nsfw": false,
+        "createdTimestamp": 1620282374831
+    },
+    "serverData": {
+        "824083215375400970": {
+            "botsData": {
+                "838346471349682226": {
+                    "owner": "442301468146401280",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "829635878992478227": {
+                    "owner": "409772912015573012",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "302050872383242240": {
+                    "owner": "451474544255959071",
+                    "status": "`Reddedildi` <:minus:839982244545429514>",
+                    "redReason": "Sahip Sunucudan Ayrıldı."
+                },
+                "819943668152664124": {
+                    "owner": "655411623485374477",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "782885211826028575": {
+                    "owner": "630285756337881108",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "795719103901859850": {
+                    "owner": "823887682052161557",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "839104781380354048": {
+                    "owner": "779738850447720450",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "755448409648922696": {
+                    "owner": "716252316562489355",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "832170859883397140": {
+                    "owner": "795580738351136778",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "826542677981134859": {
+                    "owner": "690465699201810433",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "838415704381587476": {
+                    "owner": "750379415401267300",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "793845646725087282": {
+                    "owner": "826372721721999381",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "828587570165710858": {
+                    "owner": "795587182005583882",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "838367972757733427": {
+                    "owner": "358590267848392704",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "836583808513605682": {
+                    "owner": "800633137721114684",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "838675077032968253": {
+                    "owner": "797513740781748275",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "814429176081809430": {
+                    "owner": "796821930069983262",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "827485461865431042": {
+                    "owner": "416938422679371778",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "838624227745726525": {
+                    "owner": "505343752114798602",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "807542358156902430": {
+                    "owner": "798322948339400764",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "824621315524132894": {
+                    "owner": "829350995149717524",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "782920013601701888": {
+                    "owner": "689507640954716255",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "794184837355274270": {
+                    "owner": "812309181411098707",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "828342425906577449": {
+                    "owner": "795381387771379753",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "826169870605352980": {
+                    "owner": "839746382919368724",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "838025056021118986": {
+                    "owner": "710795156772749382",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "772527062640361492": {
+                    "owner": "832266794663149568",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "772065772020563999": {
+                    "owner": "712309399909302393",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "832195006692851753": {
+                    "owner": "418816971329765376",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "783654052310286358": {
+                    "owner": "783073348983980062",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "832997633126694934": {
+                    "owner": "776879343967141938",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "805385437035626508": {
+                    "owner": "796800359405453332",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "724378254735048795": {
+                    "owner": "314770819718840322",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "815217975145267242": {
+                    "owner": "839960879880470600",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "802926011608072262": {
+                    "owner": "797904178223644672",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "709015550256218133": {
+                    "owner": "591648048648552471",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "817030482108874773": {
+                    "owner": "391562020702650380",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "728949938687574066": {
+                    "owner": "797513740781748275",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "840252552238989314": {
+                    "owner": "809607037071130744",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "834727998783094785": {
+                    "owner": "809465222599147591",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "775423101004939265": {
+                    "owner": "407192044466077697",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "839914425480904714": {
+                    "owner": "407192044466077697",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "815851126045147169": {
+                    "owner": "407192044466077697",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "832356640974962751": {
+                    "owner": "751418270023811143",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "840155445276573717": {
+                    "owner": "775413566253301801",
+                    "status": "`Onaylandı` <:check:839982244042768416>",
+                    "redReason": "100 Sunucu Sınırı"
+                },
+                "837691785336979497": {
+                    "owner": "823887682052161557",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                },
+                "802627351589552148": {
+                    "owner": "828361268644937728",
+                    "status": "`Bekliyor` <a:yukleniyor:839638632729804800>"
+                }
+            },
+            "succSize": 47,
+            "redSize": 0,
+            "waitSize": 1
+        },
+        "840341674705944606": {
+            "waitSize": 1,
+            "botsData": {
+                "840338788785455115": {
+                    "owner": "451474544255959071",
+                    "status": "`Reddedildi` <:minus:839982244545429514>",
+                    "redReason": "Sahip Sunucudan Ayrıldı."
+                }
+            }
+        },
+        "833506663155367936": {
+            "waitSize": 0,
+            "botsData": {
+                "302050872383242240": {
+                    "owner": "451474544255959071",
+                    "status": "`Onaylandı` <:check:839982244042768416>"
+                }
+            },
+            "succSize": 2
+        }
+    },
+    "toplambot": 50,
+    "aciksistem": 1,
+    "leviankurallar": {
+        "768100540801613875": "Kural Onaylandı",
+        "479075370801430530": "Kural Onaylandı",
+        "451474544255959071": "Kural Onaylandı"
+    },
+    "kural": 39,
+    "eklekanal_840341674705944606": {
+        "type": "text",
+        "deleted": false,
+        "id": "840347848272904202",
+        "name": "➕﹢bot-ekle",
+        "rawPosition": 8,
+        "parentID": "840347769570590720",
+        "permissionOverwrites": [],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": "840370537612050473",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "840341674705944606",
+        "messages": [],
+        "createdTimestamp": 1620424939936
+    },
+    "logkanal_840341674705944606": {
+        "type": "text",
+        "deleted": false,
+        "id": "840347932539486230",
+        "name": "🔔﹢bot-log",
+        "rawPosition": 9,
+        "parentID": "840347769570590720",
+        "permissionOverwrites": [],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": null,
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "840341674705944606",
+        "messages": [],
+        "createdTimestamp": 1620424960027
+    },
+    "yetkili_kanal_840341674705944606": {
+        "type": "text",
+        "deleted": false,
+        "id": "840348049585995817",
+        "name": "🔏﹢yetkili-chat",
+        "rawPosition": 10,
+        "parentID": "840347769570590720",
+        "permissionOverwrites": [],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": null,
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "840341674705944606",
+        "messages": [],
+        "createdTimestamp": 1620424987933
+    },
+    "yetkililog_840341674705944606": {
+        "type": "text",
+        "deleted": false,
+        "id": "840348192481476620",
+        "name": "🔐﹢yetkili-log",
+        "rawPosition": 11,
+        "parentID": "840347769570590720",
+        "permissionOverwrites": [],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": null,
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "840341674705944606",
+        "messages": [],
+        "createdTimestamp": 1620425022002
+    },
+    "developer_840341674705944606": "840348233996828713",
+    "botrol_840341674705944606": "840348338406424607",
+    "modrole_840341674705944606": "840348525800062997",
+    "botlist_840341674705944606": true,
+    "eklekanal_824083215375400970": {
+        "type": "text",
+        "deleted": false,
+        "id": "836156114138824725",
+        "name": "bot-add",
+        "rawPosition": 14,
+        "parentID": "836156062993743922",
+        "permissionOverwrites": [
+            "824083215375400970",
+            "824083328331939890",
+            "837907250420514846"
+        ],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": "840651602884689950",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "824083215375400970",
+        "messages": [],
+        "createdTimestamp": 1619425552640
+    },
+    "logkanal_824083215375400970": {
+        "type": "text",
+        "deleted": false,
+        "id": "836156130673033227",
+        "name": "log",
+        "rawPosition": 15,
+        "parentID": "836156062993743922",
+        "permissionOverwrites": [
+            "824083215375400970",
+            "824083328331939890",
+            "836145782003990608",
+            "837907250420514846"
+        ],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": "840646525247291443",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "824083215375400970",
+        "messages": [],
+        "createdTimestamp": 1619425556582
+    },
+    "yetkili_kanal_824083215375400970": {
+        "type": "text",
+        "deleted": false,
+        "id": "836490384657743892",
+        "name": "botlist-log",
+        "rawPosition": 18,
+        "parentID": "836156062993743922",
+        "permissionOverwrites": [
+            "824083215375400970",
+            "824083328331939890",
+            "836491291248164884",
+            "837907250420514846"
+        ],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": "840646524735455272",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "824083215375400970",
+        "messages": [],
+        "createdTimestamp": 1619505248942
+    },
+    "yetkililog_824083215375400970": {
+        "type": "text",
+        "deleted": false,
+        "id": "839000346771849216",
+        "name": "yetkili-log",
+        "rawPosition": 19,
+        "parentID": "836156062993743922",
+        "permissionOverwrites": [
+            "824083215375400970",
+            "824083328331939890"
+        ],
+        "topic": null,
+        "nsfw": false,
+        "lastMessageID": "840646525137715250",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "824083215375400970",
+        "messages": [],
+        "createdTimestamp": 1620103670543
+    },
+    "modrole_824083215375400970": "836491291248164884",
+    "botrol_824083215375400970": "824094095210971157",
+    "developer_824083215375400970": "824100732541337650",
+    "botlist_824083215375400970": true,
+    "bakımalan_": "451474544255959071",
+    "bakımsüre_": 1620505581661,
+    "bakım_": "Son Çalişmalar",
+    "banlog_833506663155367936": {
+        "type": "text",
+        "deleted": false,
+        "id": "834256882188943380",
+        "name": "log",
+        "rawPosition": 1,
+        "parentID": "833506663502970950",
+        "permissionOverwrites": [
+            "833506663155367936"
+        ],
+        "topic": null,
+        "lastMessageID": "840322346199679017",
+        "rateLimitPerUser": 0,
+        "lastPinTimestamp": null,
+        "guild": "833506663155367936",
+        "messages": [],
+        "nsfw": false,
+        "createdTimestamp": 1618972740457
+    },
+    "botlist_833506663155367936": true,
+    "kural_451474544255959071": 1
+}
